@@ -1,5 +1,19 @@
 # 💫 About Me:
-I am passionate about creating innovative and dynamic websites that exceed expectations. With a strong foundation in JavaScript, React JS, React Native, Tailwind CSS, CSS5, HTML5, Bootstrap, MongoDB, and Node JS. I have a proven track record of delivering exceptional results in a fast-paced environment.<br><br>My expertise includes a list of some key areas of specialization such as front-end development, back-end development, database management, API integration, responsive design, etc. I am committed to staying up-to-date with the latest trends and technologies in the field, and I am always looking for ways to enhance my skills and knowledge.<br><br>Throughout my career, I have demonstrated exceptional problem-solving skills and the ability to work effectively in a team. I am dedicated to delivering high-quality work that meets client's needs and exceeds their expectations. My attention to detail and commitment to excellence have earned me a reputation as a dependable and results-driven web developer.<br><br>If you are looking for a skilled web developer with a proven track record of success, I would be excited to discuss how I can contribute to your team. Please feel free to reach out to me to learn more about my experience and qualifications.
+I am a passionate and dedicated junior full-stack developer with expertise in a wide range of technologies, particularly ReactJS,NextJs, Node.js, Express.js, MongoDB, Mongoose, Firebase, and JavaScript. My journey in web development began with the successful completion of a comprehensive web development course, and I am now eager to apply my skills to cutting-edge projects that push industry standards forward.
+<br></br>
+Throughout my learning journey, I have had the opportunity to work on various projects, including the creation of dynamic full-stack web applications. These experiences have equipped me with practical knowledge and problem-solving abilities that I am excited to bring to any development team.
+<br></br>
+My motivation to excel in the field of web development goes beyond my current skill set. I have a voracious appetite for learning, and I actively follow industry blogs and immerse myself in technology documentation to expand my knowledge and stay updated on the latest trends.
+
+<br></br>
+My work ethic is marked by dedication, and I approach each task with a constant hunger for knowledge.  
+Please feel free to reach out me to know about my journey and qualifications.
+
+
+
+
+
+
 
 
 ## 🌐 Socials:
