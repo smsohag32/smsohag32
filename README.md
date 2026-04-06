@@ -18,15 +18,6 @@ I am an **Associate Software Engineer** at **Project 2morrow Software Ltd**, spe
 
 ---
 
-### 📈 GitHub Ecosystem
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smsohag32&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sohag's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smsohag32&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 💬 Let's Connect
 
 <p align="left">
