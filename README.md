@@ -1,4 +1,4 @@
-# Hi there, I'm Sohag Sheikh 👋
+# Hi, I'm Sohag Sheik
 ### Software Engineer (Front-End)
 
 I am an **Associate Software Engineer** at **Project 2morrow Software Ltd**, specializing in building scalable, user-centric fintech and enterprise applications. I focus on creating high-performance interfaces and seamless digital experiences using modern JavaScript and Python frameworks.
